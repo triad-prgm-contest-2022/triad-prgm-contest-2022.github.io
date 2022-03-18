@@ -154,43 +154,43 @@ line-height:115%'><span style='font-size:14.0pt;line-height:115%;font-family:
 <p class=MsoNormal align=center style='text-align:center'>Contents</p>
 
 <p class=MsoToc1><a href="#_Toc97651537">1.<span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif;color:windowtext;text-decoration:none'>      </span>Password
+font-family:"Calibri",sans-serif;color:windowtext;text-decoration:none'>      </span>Password
 Validator<span style='color:windowtext;display:none;text-decoration:none'> </span><span
 style='color:windowtext;display:none;text-decoration:none'>2</span></a></p>
 
 <p class=MsoToc1><a href="#_Toc97651538">2.<span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif;color:windowtext;text-decoration:none'>      </span>Stack
+font-family:"Calibri",sans-serif;color:windowtext;text-decoration:none'>      </span>Stack
 Script<span style='color:windowtext;display:none;text-decoration:none'> </span><span
 style='color:windowtext;display:none;text-decoration:none'>3</span></a></p>
 
 <p class=MsoToc1><a href="#_Toc97651539">3.<span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif;color:windowtext;text-decoration:none'>      </span>Fire
+font-family:"Calibri",sans-serif;color:windowtext;text-decoration:none'>      </span>Fire
 Plane Dispatcher<span style='color:windowtext;display:none;text-decoration:
 none'> </span><span
 style='color:windowtext;display:none;text-decoration:none'>4</span></a></p>
 
 <p class=MsoToc1><a href="#_Toc97651540">4.<span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif;color:windowtext;text-decoration:none'>      </span>Square
+font-family:"Calibri",sans-serif;color:windowtext;text-decoration:none'>      </span>Square
 Farmland<span style='color:windowtext;display:none;text-decoration:none'>. </span><span
 style='color:windowtext;display:none;text-decoration:none'>5</span></a></p>
 
 <p class=MsoToc1><a href="#_Toc97651541">5.<span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif;color:windowtext;text-decoration:none'>      </span>Sum
+font-family:"Calibri",sans-serif;color:windowtext;text-decoration:none'>      </span>Sum
 to Nothing<span style='color:windowtext;display:none;text-decoration:none'>. </span><span
 style='color:windowtext;display:none;text-decoration:none'>6</span></a></p>
 
 <p class=MsoToc1><a href="#_Toc97651542">6.<span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif;color:windowtext;text-decoration:none'>      </span>Asteroid
+font-family:"Calibri",sans-serif;color:windowtext;text-decoration:none'>      </span>Asteroid
 Position<span style='color:windowtext;display:none;text-decoration:none'>. </span><span
 style='color:windowtext;display:none;text-decoration:none'>7</span></a></p>
 
 <p class=MsoToc1><a href="#_Toc97651543">7.<span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif;color:windowtext;text-decoration:none'>      </span>Correct
+font-family:"Calibri",sans-serif;color:windowtext;text-decoration:none'>      </span>Correct
 Change<span style='color:windowtext;display:none;text-decoration:none'>. </span><span
 style='color:windowtext;display:none;text-decoration:none'>9</span></a></p>
 
 <p class=MsoToc1><a href="#_Toc97651544">8.<span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif;color:windowtext;text-decoration:none'>      </span>Donut
+font-family:"Calibri",sans-serif;color:windowtext;text-decoration:none'>      </span>Donut
 Trail<span style='color:windowtext;display:none;text-decoration:none'> </span><span
 style='color:windowtext;display:none;text-decoration:none'>10</span></a></p>
 
@@ -275,7 +275,7 @@ file named </span></span><span style='font-size:12.0pt;font-family:"Courier New"
 border:none'><span style='border:none'>password.txt</span></span><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif;border:none'><span
 style='border:none'> with the first line containing the number of passwords
-that will follow.  Each password is on a separate line of the file.</span></span></p>
+that will follow.  Each password is on a separate line of the file.</span></span></p>
 
 <p class=Body><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
 border:none'>&nbsp;</span></p>
@@ -288,34 +288,34 @@ by YES if the password if valid, or NO if the password is not valid.</span></spa
 border:none'>&nbsp;</span></p>
 
 <p class=Body><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-border:none'><span style='border:none'> Sample Input<span style='border:none'> </span></span></span></b><span
+border:none'><span style='border:none'> Sample Input<span style='border:none'> </span></span></span></b><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif;border:none'><span
 style='border:none'>from</span></span><b><span style='font-size:12.0pt;
-font-family:"Times New Roman",serif;border:none'><span style='border:none'> <span
-style='border:none'><a download href="Example_Input/password.txt">password.txt</a>                                                                      <span
+font-family:"Times New Roman",serif;border:none'><span style='border:none'> p<span
+style='border:none'>assword.txt                                                                <span
 style='border:none'>Sample Output:</span></span></span></span></b></p>
 
 <p class=Body><span style='font-family:"Courier New";border:none'><span
 style='border:none'>4</span></span></p>
 
 <p class=Body><span style='font-family:"Courier New";border:none'><span
-style='border:none'>Pass5                              <span style='border:
+style='border:none'>Pass5                              <span style='border:
 none'>Pass5 NO</span></span></span></p>
 
 <p class=Body><span style='font-family:"Courier New";border:none'><span
-style='border:none'>passwordpasswordpasswordpassword   <span style='border:
+style='border:none'>passwordpasswordpasswordpassword   <span style='border:
 none'>passwordpasswordpasswordpassword NO</span></span></span></p>
 
 <p class=Body><span style='font-family:"Courier New";border:none'><span
-style='border:none'>p4223076                           <span style='border:
+style='border:none'>p4223076                           <span style='border:
 none'>p4223076 NO</span></span></span></p>
 
 <p class=Body><span style='font-family:"Courier New";border:none'><span
-style='border:none'>Password1                          <span style='border:
+style='border:none'>Password1                          <span style='border:
 none'>Password1 YES</span></span></span></p>
 
 <p class=Body><span style='font-family:"Courier New";border:none'><span
-style='border:none'>PASSWORD47                         <span style='border:
+style='border:none'>PASSWORD47                         <span style='border:
 none'>PASSWORD47 NO</span></span></span></p>
 
 <span style='font-size:12.0pt;line-height:115%;font-family:"Courier New"'><br
@@ -334,71 +334,71 @@ line-height:115%'><span style='font-size:11.0pt;line-height:115%;font-family:
 <p class=MsoNormal>&nbsp;</p>
 
 <p class=MsoNormal>Write a program that will interpret a simple stack oriented
-script language.  The script language starts with data declarations followed by
-commands.  Data declarations are one to a line in the format:</p>
+script language.  The script language starts with data declarations followed by
+commands.  Data declarations are one to a line in the format:</p>
 
 <p class=MsoNormal align=left style='margin-top:6.0pt;margin-right:0in;
 margin-bottom:6.0pt;margin-left:0in;text-align:left'><span style='font-family:
 "Arial",sans-serif'>variablename number</span></p>
 
-<p class=MsoNormal>where variablename is the name of a program variable. 
-Program variables are case insensitive and may contain only letters.  The
-number is an integer value.  There may be up to 16 variables.  The end of the
-variable list is denoted by a line containing only  "<span style='font-family:
-"Arial",sans-serif'>program</span>".  Following the program line are executable
-statements.  There are seven possible statement types:</p>
+<p class=MsoNormal>where variablename is the name of a program variable. 
+Program variables are case insensitive and may contain only letters.  The
+number is an integer value.  There may be up to 16 variables.  The end of the
+variable list is denoted by a line containing only “<span style='font-family:
+"Arial",sans-serif'>program</span>”.  Following the program line are executable
+statements.  There are seven possible statement types:</p>
 
 <p class=MsoNormal>&nbsp;</p>
 
 <p class=MsoNormal align=left style='margin-top:0in;margin-right:0in;
 margin-bottom:6.0pt;margin-left:.8in;text-align:left;text-indent:-.8in'><span
 style='font-family:"Arial",sans-serif'>push </span><i>var</i><span
-style='font-family:"Arial",sans-serif'>    </span>Push the value of the
+style='font-family:"Arial",sans-serif'>    </span>Push the value of the
 specified variable onto the stack.</p>
 
 <p class=MsoNormal align=left style='margin-top:0in;margin-right:0in;
 margin-bottom:6.0pt;margin-left:.8in;text-align:left;text-indent:-.8in'><span
 style='font-family:"Arial",sans-serif'>pop </span><i>var</i><span
-style='font-family:"Arial",sans-serif'>      </span>Remove the top of stack
+style='font-family:"Arial",sans-serif'>      </span>Remove the top of stack
 value and store it in the specified variable.</p>
 
 <p class=MsoNormal align=left style='margin-top:0in;margin-right:0in;
 margin-bottom:6.0pt;margin-left:.8in;text-align:left;text-indent:-.8in'><span
-style='font-family:"Arial",sans-serif'>add             </span>Add the top two
-values on the stack.  Remove the two values on top of the stack and store the
+style='font-family:"Arial",sans-serif'>add             </span>Add the top two
+values on the stack.  Remove the two values on top of the stack and store the
 addition result on the top of the stack.</p>
 
 <p class=MsoNormal align=left style='margin-top:0in;margin-right:0in;
 margin-bottom:6.0pt;margin-left:.8in;text-align:left;text-indent:-.8in'><span
-style='font-family:"Arial",sans-serif'>sub             </span>Subtract the top
-of the stack value from the value immediately below the top of the stack. 
+style='font-family:"Arial",sans-serif'>sub             </span>Subtract the top
+of the stack value from the value immediately below the top of the stack. 
 Remove the two values on top of the stack and store the subtraction result on
 the stack.</p>
 
 <p class=MsoNormal align=left style='margin-top:0in;margin-right:0in;
 margin-bottom:6.0pt;margin-left:.8in;text-align:left;text-indent:-.8in'><span
-style='font-family:"Arial",sans-serif'>mult            </span>Multiply the top
-of the stack value with the value immediately below the top of the stack. 
+style='font-family:"Arial",sans-serif'>mult            </span>Multiply the top
+of the stack value with the value immediately below the top of the stack. 
 Remove the two values on top of the stack and store the product result on the
 stack.</p>
 
 <p class=MsoNormal align=left style='margin-top:0in;margin-right:0in;
 margin-bottom:6.0pt;margin-left:.8in;text-align:left;text-indent:-.8in'><span
-style='font-family:"Arial",sans-serif'>div              </span>Divide the top
-of the stack value by the value immediately below the top of the stack.  Remove
+style='font-family:"Arial",sans-serif'>div              </span>Divide the top
+of the stack value by the value immediately below the top of the stack.  Remove
 the two values on top of the stack and store the division result on the stack.</p>
 
 <p class=MsoNormal align=left style='margin-top:0in;margin-right:0in;
 margin-bottom:6.0pt;margin-left:.8in;text-align:left;text-indent:-.8in'><span
-style='font-family:"Arial",sans-serif'>display       </span>Display  "Top of
-stack:" followed by the value of the top of the stack. The value on the top of
+style='font-family:"Arial",sans-serif'>display       </span>Display “Top of
+stack:” followed by the value of the top of the stack. The value on the top of
 the stack is not changed or removed.</p>
 
 <p class=MsoNormal>&nbsp;</p>
 
-<p class=MsoNormal>There may be up to 256 program statements.  The end of the
-program statements is denoted by a line containing only  "<span
-style='font-family:"Arial",sans-serif'>end</span>".  All variable names and
+<p class=MsoNormal>There may be up to 256 program statements.  The end of the
+program statements is denoted by a line containing only “<span
+style='font-family:"Arial",sans-serif'>end</span>”.  All variable names and
 commands are case insensitive, so <span style='font-family:"Courier New"'>ADD</span>,
 <span style='font-family:"Courier New"'>add</span> and <span style='font-family:
 "Courier New"'>Add</span> are all the same.</p>
@@ -406,9 +406,9 @@ commands are case insensitive, so <span style='font-family:"Courier New"'>ADD</s
 <p class=MsoNormal>&nbsp;</p>
 
 <p class=MsoNormal>Your program is to execute a program written in this stack
-script language.  The script programs are written by Computer Science faculty,
-so there are no errors in them.  There will be no undeclared variables and no
-stack overflows or underflows.  The script program should be read from <b><span
+script language.  The script programs are written by Computer Science faculty,
+so there are no errors in them.  There will be no undeclared variables and no
+stack overflows or underflows.  The script program should be read from <b><span
 style='font-family:"Courier New"'>script.txt</span></b></p>
 
 <p class=MsoNormal>&nbsp;</p>
@@ -421,7 +421,7 @@ clear=all style='page-break-before:auto'>
 
 <div class=WordSection2>
 
-<p class=MsoNormal><b>Example input </b>from<b> <a download href="Example_Input/script.txt">script.txt</a></b></p>
+<p class=MsoNormal><b>Example input </b>from<b> script.txt</b></p>
 
 <p class=MsoNormal><b>&nbsp;</b></p>
 
@@ -480,13 +480,13 @@ style='page-break-before:auto'>
 stand ready at several airports. Write a program to be used by the fire service
 to dispatch the closest airplane to help put out a fire. Airports are located by
 their latitude and longitude which are each represented by three integers, the
-degrees, minutes and seconds.  We will assume that all latitudes are north, and
-longitudes are west, the portion of the globe that encompasses North America.  Airports
+degrees, minutes and seconds.  We will assume that all latitudes are north, and
+longitudes are west, the portion of the globe that encompasses North America.  Airports
 are identified by A, B, C, D, etc. The first airport is identified by A, the
 second airport is B, the third airport is C, etc. There is a maximum of 10 airports.
-The fire location is identified by its latitude and longitude coordinates. 
+The fire location is identified by its latitude and longitude coordinates. 
 Your program will calculate the closest airport to dispatch airplanes to fight
-the fire.  </p>
+the fire.  </p>
 
 <p class=MsoNormal align=left style='text-align:left'>&nbsp;</p>
 
@@ -505,35 +505,35 @@ and longitude coordinates of the emergency location</p>
 <p class=MsoNormal align=left style='text-align:left'>&nbsp;</p>
 
 <p class=MsoNormal align=left style='text-align:left'>Your program should print
-the airport that is closest to the fire.  The closest airport is defined as the
-one with the shortest straight line distance.  You may ignore the curvature of
-the earth.  The airport must be identified by its letter.</p>
+the airport that is closest to the fire.  The closest airport is defined as the
+one with the shortest straight line distance.  You may ignore the curvature of
+the earth.  The airport must be identified by its letter.</p>
 
 <p class=MsoNormal align=left style='text-align:left'>&nbsp;</p>
 
 <p class=MsoNormal align=left style='text-align:left'><b>Sample input </b>from<b>
-<a download href="Example_Input/fire.txt">fire.txt</a></b></p>
+fire.txt</b></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span style='font-family:
 "Courier New"'>5</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span style='font-family:
-"Courier New"'>37   57   5    120  1    49</span></p>
+"Courier New"'>37   57   5    120  1    49</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span style='font-family:
-"Courier New"'>49   25   45   98   35   42</span></p>
+"Courier New"'>49   25   45   98   35   42</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span style='font-family:
-"Courier New"'>45   38   40   94   10   27</span></p>
+"Courier New"'>45   38   40   94   10   27</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span style='font-family:
-"Courier New"'>31   59   22   79   39   18</span></p>
+"Courier New"'>31   59   22   79   39   18</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span style='font-family:
-"Courier New"'>36   6    48   81   7    17</span></p>
+"Courier New"'>36   6    48   81   7    17</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span style='font-family:
-"Courier New"'>41   34   23   104  14   60</span></p>
+"Courier New"'>41   34   23   104  14   60</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'>&nbsp;</p>
 
@@ -557,25 +557,25 @@ line-height:115%'>&nbsp;</p>
 <p class=MsoNormal>&nbsp;</p>
 
 <p class=MsoNormal>You have been hired by a binary farmer to find the largest
-square plot of land for planting crops on her new farm.  The plot to be farmed
-must be a square where the width and depth are the same.  <i>(Her plants have
-square roots.)</i>  She has created a text file that models her property. Every
+square plot of land for planting crops on her new farm.  The plot to be farmed
+must be a square where the width and depth are the same.  <i>(Her plants have
+square roots.)</i>  She has created a text file that models her property. Every
 square hectare of land good for planting is denoted by a 1, and every hectare
 that is deemed not suitable is represented by a 0. The input for this program
 comes from <b><span style='font-family:"Courier New"'>largestsquare.txt</span>.</b>
 The first line of the input file will be the integer <b><i>n</i></b>, the
-number of rows and columns of the matrix.  The following <b><i>n</i></b> rows
+number of rows and columns of the matrix.  The following <b><i>n</i></b> rows
 will contain <b><i>n</i></b> 1’s or 0’s separated by spaces. Your program
 should find the row and column position of the upper left corner (corner with
 the smallest index) of the largest square that is suitable for planting and
-output the number of hectares in that square.  The first row and first column
-are numbered zero.  If there is more than one square of the largest size, your
+output the number of hectares in that square.  The first row and first column
+are numbered zero.  If there is more than one square of the largest size, your
 program can output any largest square.</p>
 
 <p class=MsoNormal>&nbsp;</p>
 
 <p class=MsoNormal><b>Example input </b>from<b> </b><b><span style='font-family:
-"Courier New"'><a download href="Example_Input/largestsquare.txt">largestsquare.txt</a></span></b></p>
+"Courier New"'>largestsquare.txt</span></b></p>
 
 <p class=MsoNormal>&nbsp;</p>
 
@@ -651,25 +651,25 @@ line-height:115%'><b><span style='font-family:"Arial",sans-serif'>&nbsp;</span><
 <p class=MsoNormal>&nbsp;</p>
 
 <p class=MsoNormal>Given a set of integers, is there a non-empty subset of the
-numbers whose sum is zero?  For example, given the set { &#8722;7, &#8722;3,
+numbers whose sum is zero?  For example, given the set { &#8722;7, &#8722;3,
 &#8722;2, 5, 8 }, the answer is yes because the subset { &#8722;3, &#8722;2, 5
 } sums to zero.</p>
 
 <p class=MsoNormal>&nbsp;</p>
 
 <p class=MsoNormal>The input to this program comes from the text file <b><span
-style='font-family:"Courier New"'>zero.txt</span></b>.  The first line of the
-file is the number of sets to be checked.  Each set contains an integer number <b>N</b>
-(between 2 and 10) giving the number of values to follow.  The next line for
-each set has <b>N</b> integers.  If there is a subset of the <b>N</b> integers
+style='font-family:"Courier New"'>zero.txt</span></b>.  The first line of the
+file is the number of sets to be checked.  Each set contains an integer number <b>N</b>
+(between 2 and 10) giving the number of values to follow.  The next line for
+each set has <b>N</b> integers.  If there is a subset of the <b>N</b> integers
 (size 1 to <b>N</b>) that sums to zero, the program should display the integers
-in the subset, each separated by a space.  If more than one subset exists, only
-one has to be shown.  If no subset exists for that set, the program should
-print  "<span style='font-family:"Courier New"'>No zero sum</span>".</p>
+in the subset, each separated by a space.  If more than one subset exists, only
+one has to be shown.  If no subset exists for that set, the program should
+print “<span style='font-family:"Courier New"'>No zero sum</span>”.</p>
 
 <p class=MsoNormal>&nbsp;</p>
 
-<p class=MsoNormal><b>Example input </b>from <b><span style='font-family:"Courier New"'><a download href="Example_Input/zero.txt">zero.txt</a></span></b></p>
+<p class=MsoNormal><b>Example input </b>from <b><span style='font-family:"Courier New"'>zero.txt</span></b></p>
 
 <p class=MsoNormal><span style='font-family:"Courier New"'>3</span></p>
 
@@ -707,17 +707,17 @@ print  "<span style='font-family:"Courier New"'>No zero sum</span>".</p>
 </span>Asteroid Position</a></h1>
 
 <p class=MsoNormal style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
-margin-left:0in'>There are lots of objects moving around in space.  Write a
+margin-left:0in'>There are lots of objects moving around in space.  Write a
 program that will predict the position of an asteroid at a given time in the
 future based on its current position and speed.</p>
 
-<p class=MsoNormal style='margin-bottom:6.0pt'> In 1687, Isaac Newton
+<p class=MsoNormal style='margin-bottom:6.0pt'> In 1687, Isaac Newton
 formulated the principles governing the motion of two particles under the
-influence of their mutual gravitational attraction.  As a close approximation,
-we will assume everything orbits the sun on a two-dimensional plane.  Let
+influence of their mutual gravitational attraction.  As a close approximation,
+we will assume everything orbits the sun on a two-dimensional plane.  Let
 &#916;<i>x</i> represent the difference in the position of two object, A &amp;
 B, along the X coordinate and let &#916;<i>y</i> represent the difference along
-the Y coordinate.  Calculate r, the distance between the two objects in meters,
+the Y coordinate.  Calculate r, the distance between the two objects in meters,
 using</p>
 
 <p class=MsoNormal><span
@@ -726,12 +726,12 @@ height=27 src="Contest%20Problems%202022_files/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:6.0pt'>Asteroids are primarily influenced
 by the gravitational attractions of the sun since it is six orders of magnitude
-more massive than any of the planets.  We can represent the mass of the sun, <br>
+more massive than any of the planets.  We can represent the mass of the sun, <br>
 1.9890 × 10<sup>30</sup> Kg, as M<sub>SUN</sub> and the mass of an asteroid as
 M<sub>A</sub>.</p>
 
 <p class=MsoNormal style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
-margin-left:0in'> The force in Newtons pulling an asteroid to the sun can be
+margin-left:0in'> The force in Newtons pulling an asteroid to the sun can be
 calculated using</p>
 
 <p class=MsoNormal><span
@@ -740,7 +740,7 @@ height=42 src="Contest%20Problems%202022_files/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
 margin-left:0in'>where G is the gravitational constant, 6.67 × 10<sup>&#8722;11</sup>
-in the units N·m<sup>2</sup>·kg<sup>&#8722;2</sup>.  The force can be divided
+in the units N·m<sup>2</sup>·kg<sup>&#8722;2</sup>.  The force can be divided
 into X and Y components by:</p>
 
 <p class=MsoNormal><span
@@ -749,7 +749,7 @@ height=42 src="Contest%20Problems%202022_files/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
 margin-left:0in'>The force will accelerate the asteroid following Newton's
-second law of motion, F = ma.  Over a small change in time, &#916;t, the
+second law of motion, F = ma.  Over a small change in time, &#916;t, the
 velocity of an asteroid is changed by</p>
 
 <p class=MsoNormal><span
@@ -771,11 +771,11 @@ location.</p>
 
 <p class=MsoNormal>&nbsp;</p>
 
-<p class=MsoNormal>The program must first read in data about the asteroid.  The
+<p class=MsoNormal>The program must first read in data about the asteroid.  The
 input file, <b><span style='font-family:"Courier New"'>
 	</span></b><span
 style='font-family:"Courier New"'>,</span> contains the position, velocity and
-mass of the asteroid.  A single line contains:</p>
+mass of the asteroid.  A single line contains:</p>
 
 <p class=MsoNormal>&nbsp;</p>
 
@@ -807,14 +807,13 @@ asteroid in meters/second</p>
 
 
 <p class=MsoNormal><b>Sample input </b>from<b> </b><b><span style='font-family:
-"Courier New"'><a download="asteroid.txt" Content-Disposition: attachment; filename=asteroid.txt; href="Example_Input/asteroid.txt">asteroid.txt
+"Courier New"'><a href="/Example Input/asteroid.txt" download>asteroid.txt
 	</a></span></b></p>
-
 
 <p class=MsoNormal><b>&nbsp;</b></p>
 
-<p class=MsoNormal><span style='font-family:"Courier New"'>7.7578E+09 
-5.7378E+10  -4.7468E+04  6.4179E+03  8.7E+19</span></p>
+<p class=MsoNormal><span style='font-family:"Courier New"'>7.7578E+09 
+5.7378E+10  -4.7468E+04  6.4179E+03  8.7E+19</span></p>
 
 <p class=MsoNormal>&nbsp;</p>
 
@@ -859,14 +858,14 @@ so, display true, otherwise display false.</span></p>
 <p class=MsoNormal style='background:#FFFFFE'><span style='color:black'>Input
 will be from the file </span><span style='font-family:"Courier New";color:black'>money.txt</span><span
 style='color:black'> The first number in the file will be an integer specifying
-the number of test cases.  Each test case will start with an integer, <b><i>n</i></b>,
-indicating how many hot dog purchases will be made.  This will be followed by <b><i>n</i></b>
+the number of test cases.  Each test case will start with an integer, <b><i>n</i></b>,
+indicating how many hot dog purchases will be made.  This will be followed by <b><i>n</i></b>
 numbers, either 5, 10 or 20, separated by whitespace.</span></p>
 
 <p class=MsoNormal style='background:#FFFFFE'><span style='color:black'>&nbsp;</span></p>
 
 <p class=MsoNormal style='background:#FFFFFE'><b><span style='color:black'>Sample
-input </span></b><span style='color:black'>from<b><a href="Example_Input/money.txt" download> money.txt</a>:</b></span></p>
+input </span></b><span style='color:black'>from<b> money.txt:</b></span></p>
 
 <p class=MsoNormal style='background:#FFFFFE'><span style='font-family:"Courier New";
 color:black'>2</span></p>
@@ -875,7 +874,7 @@ color:black'>2</span></p>
 color:black'>5</span></p>
 
 <p class=MsoNormal style='background:#FFFFFE'><span style='font-family:"Courier New";
-color:black'>5  5  5  10  20</span></p>
+color:black'>5  5  5  10  20</span></p>
 
 <p class=MsoNormal style='background:#FFFFFE'><span style='font-family:"Courier New";
 color:black'>5</span></p>
@@ -897,7 +896,7 @@ color:black'>false</span></p>
 <p class=MsoNormal style='background:#FFFFFE'><span style='color:black'>&nbsp;</span></p>
 
 <p class=MsoNormal style='background:#FFFFFE'><b><span style='color:black'>Explanation
-for </span></b><span style='color:black'>5  5  5  10  20</span></p>
+for </span></b><span style='color:black'>5  5  5  10  20</span></p>
 
 <p class=MsoNormal style='background:#FFFFFE'><span style='color:black'>From
 the first 3 customers, we collect three $5 bills in order.</span></p>
@@ -946,11 +945,11 @@ line-height:115%'>&nbsp;</p>
 <p class=MsoNormal><span style='color:black'>Given a n * m matrix donut,
 donut[i][j] denotes the number of donuts at coordinates (i, j). The program is
 to find a path from the specified starting point always moving to an adjacent
-location with the largest number of donuts.  Movements can only be one index
-up, down, left or right.  No diagonal movements are allowed.  You must always
-move in the direction of the largest number of donuts.  You cannot visit a
-position more than once.  The path ends when all adjacent locations have
-already been visited and no move is possible.  All numbers in the matrix are
+location with the largest number of donuts.  Movements can only be one index
+up, down, left or right.  No diagonal movements are allowed.  You must always
+move in the direction of the largest number of donuts.  You cannot visit a
+position more than once.  The path ends when all adjacent locations have
+already been visited and no move is possible.  All numbers in the matrix are
 unique positive integers.</span></p>
 
 <p class=MsoNormal><span style='color:black'>The program should display the
@@ -962,7 +961,7 @@ number of donuts found in the path, including those at the starting point.</span
 in the format</p>
 
 <p class=MsoNormal style='margin-top:6.0pt'>The first line will have two
-integers. n and m            , the number of rows and columns in the matrix</p>
+integers. n and m            , the number of rows and columns in the matrix</p>
 
 <p class=MsoNormal style='margin-top:6.0pt'>The second line with have two
 integers indicating the start row and column, counting from zero.</p>
@@ -971,19 +970,19 @@ integers indicating the start row and column, counting from zero.</p>
 
 <p class=MsoNormal style='margin-top:6.0pt'>&nbsp;</p>
 
-<p class=MsoNormal><b>Sample input </b>from<b> <a download href=Example_Input/donut.txt>donut.txt</a></b></p>
+<p class=MsoNormal><b>Sample input </b>from<b> donut.txt</b></p>
 
 <p class=MsoNormal><span style='font-family:"Courier New"'>5 5</span></p>
 
 <p class=MsoNormal><span style='font-family:"Courier New"'>1 1</span></p>
 
-<p class=MsoNormal><span style='font-family:"Courier New"'> 2  3 18 22  6</span></p>
+<p class=MsoNormal><span style='font-family:"Courier New"'> 2  3 18 22  6</span></p>
 
-<p class=MsoNormal><span style='font-family:"Courier New"'> 4  8 11  7 12</span></p>
+<p class=MsoNormal><span style='font-family:"Courier New"'> 4  8 11  7 12</span></p>
 
-<p class=MsoNormal><span style='font-family:"Courier New"'> 1  9 21 16 17</span></p>
+<p class=MsoNormal><span style='font-family:"Courier New"'> 1  9 21 16 17</span></p>
 
-<p class=MsoNormal><span style='font-family:"Courier New"'> 5 19 33 15 13</span></p>
+<p class=MsoNormal><span style='font-family:"Courier New"'> 5 19 33 15 13</span></p>
 
 <p class=MsoNormal><span style='font-family:"Courier New"'>44 10 14 18 20</span></p>
 
@@ -1004,8 +1003,8 @@ found</span></p>
 
 <p class=MsoNormal>&nbsp;</p>
 
-<p class=MsoNormal><span style='font-size:16.0pt;font-family:"Courier New"'> 2 
-3 18 22  6</span></p>
+<p class=MsoNormal><span style='font-size:16.0pt;font-family:"Courier New"'> 2 
+3 18 22  6</span></p>
 
 <p class=MsoNormal><span style='position:absolute;z-index:251662336;left:0px;
 margin-left:81px;margin-top:10px;width:14px;height:32px'><img width=14
@@ -1013,7 +1012,7 @@ height=32 src="Contest%20Problems%202022_files/image007.png"></span><span
 style='position:absolute;z-index:251661312;left:0px;margin-left:54px;
 margin-top:7px;width:42px;height:14px'><img width=42 height=14
 src="Contest%20Problems%202022_files/image008.png"></span><span
-style='font-size:16.0pt;font-family:"Courier New"'> 4  8 11  7 12</span></p>
+style='font-size:16.0pt;font-family:"Courier New"'> 4  8 11  7 12</span></p>
 
 <p class=MsoNormal><span style='position:absolute;z-index:251668480;left:0px;
 margin-left:15px;margin-top:6px;width:49px;height:14px'><img width=49
@@ -1024,7 +1023,7 @@ src="Contest%20Problems%202022_files/image010.png"></span><span
 style='position:absolute;z-index:251663360;left:0px;margin-left:83px;
 margin-top:14px;width:14px;height:32px'><img width=14 height=32
 src="Contest%20Problems%202022_files/image007.png"></span><span
-style='font-size:16.0pt;font-family:"Courier New"'> 1  9 21 16 17</span></p>
+style='font-size:16.0pt;font-family:"Courier New"'> 1  9 21 16 17</span></p>
 
 <p class=MsoNormal><span style='position:absolute;z-index:251665408;left:0px;
 margin-left:45px;margin-top:8px;width:15px;height:35px'><img width=15
@@ -1032,7 +1031,7 @@ height=35 src="Contest%20Problems%202022_files/image011.png"></span><span
 style='position:absolute;z-index:251664384;left:0px;margin-left:49px;
 margin-top:4px;width:45px;height:15px'><img width=45 height=15
 src="Contest%20Problems%202022_files/image012.png"></span><span
-style='font-size:16.0pt;font-family:"Courier New"'> 5 19 33 15 13</span></p>
+style='font-size:16.0pt;font-family:"Courier New"'> 5 19 33 15 13</span></p>
 
 <p class=MsoNormal><span style='position:absolute;z-index:251666432;left:0px;
 margin-left:10px;margin-top:8px;width:44px;height:14px'><img width=44
